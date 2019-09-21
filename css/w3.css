@@ -1156,7 +1156,7 @@ a {
 }
 
 .w3-animate-opacity {
-    animation: opac 2.5s
+    animation: opac 3.5s
 }
 
 @keyframes opac {
@@ -1188,7 +1188,7 @@ a {
 
 .w3-animate-left {
     position: relative;
-    animation: animateleft 1s
+    animation: animateleft 1.5s
 }
 
 @keyframes animateleft {
@@ -1205,7 +1205,7 @@ a {
 
 .w3-animate-right {
     position: relative;
-    animation: animateright 1s
+    animation: animateright 1.5s
 }
 
 @keyframes animateright {
